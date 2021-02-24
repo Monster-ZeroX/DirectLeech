@@ -55,7 +55,7 @@ f)Then tap 👇👇
 
 - Clone this repo:
 ```
-git clone https://github.com/kaviya-admin/TorrentLeech-Gdrive
+git clone https://github.com/kaviya-admin/DirectLeech
 cd torrentleech-gdrive
 ```
 
